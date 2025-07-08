@@ -1,0 +1,10 @@
+app:
+  name: burbarik
+  port: 8080
+observability:
+  tracing:
+    jaeger:
+      endpoint: http://localhost:14250
+  metrics:
+    prometheus:
+      port: 9000

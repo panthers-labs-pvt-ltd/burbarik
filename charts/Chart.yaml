@@ -1,0 +1,4 @@
+apiVersion: v2
+name: burbarik
+version: 0.1.0
+description: Helm chart for Burbarik Observability App
